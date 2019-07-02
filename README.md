@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/LukasChiama/Banka-App.svg?branch=develop)](https://travis-ci.org/LukasChiama/Banka-App)
-[![Coverage Status](https://coveralls.io/repos/github/LukasChiama/Banka-App/badge.svg?branch=develop&service=github)](https://coveralls.io/github/LukasChiama/Banka-App?branch=develop)
+[![Build Status](https://travis-ci.com/Wokoro/way_farer_test.svg?branch=ft-user-signup-166986542)](https://travis-ci.com/Wokoro/way_farer_test)
+[![Coverage Status](https://coveralls.io/repos/github/Wokoro/way_farer_test/badge.svg?branch=ft-user-signup-166986542)](https://coveralls.io/github/Wokoro/way_farer_test?branch=ft-user-signup-166986542)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/b682600a774a0549806f/test_coverage)](https://codeclimate.com/github/LukasChiama/Banka-App/test_coverage)
 [![Maintainability](https://api.codeclimate.com/v1/badges/b682600a774a0549806f/maintainability)](https://codeclimate.com/github/LukasChiama/Banka-App/maintainability)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ce68d89786b940318d0c7f7557cda404)](https://www.codacy.com/app/LukasChiama/Banka-App?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LukasChiama/Banka-App&amp;utm_campaign=Badge_Grade)
